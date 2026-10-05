@@ -1,5 +1,5 @@
 # Hi, I'm Pedro Lazzarotto Fernandes
-**XR & Digital Twins Engineer** | Double Degree Student at **Arts et Métiers (ENSAM)** & **UFRJ** | **M2 MTI3D** (*Laval Virtual Center*)
+**XR & Digital Twins Engineer** | Triple Degree Student at **Arts et Métiers (ENSAM)** & **UFRJ** | **Master MTI3D** (*Laval Virtual Center*)
 
 📍 Laval, France
 
