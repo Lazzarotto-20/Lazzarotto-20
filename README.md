@@ -36,5 +36,14 @@
 
 ---
 
+### Projects
+
+* **[Digital Twin: Industrial Panel](https://github.com/Lazzarotto-20/DigitalTwin)** :
+  An interactive UI panel built in Unity to visualize and control real-time industrial data streams.
+
+https://github.com/user-attachments/assets/d370f0e6-ad11-4705-a297-187c38dd945e
+
+  * **Tech:** Unity, C#, UI Toolkit, Real-time Telemetry Simulation
+
 ### Let's Connect
 [LinkedIn: /in/pedro-lazzarotto](https://www.linkedin.com/in/pedro-lazzarotto)
